@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@discordjs/opus": "^0.4.0",
+    "discord": "^0.8.2",
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+    "discord.js": "^12.5.1",
+    "ffmpeg-static": "^4.2.7",
+    "node-opus": "^0.3.3",
+    "opusscript": "^0.0.7"
+  }
+}
